@@ -13,3 +13,4 @@ capTrack:刚刚进入的进程中占用多少磁道
 PCPosition：PC控制块（当前所占磁道的位置）
 （2）FCFSRun():运行FCFS方法（SSTF、SCAN、CSCAN方法同理）
 【以上是1.0版本的磁道寻道管理包信息，可能会更新】
+注：SimulateDisk.java为示例文件，请认真查阅
